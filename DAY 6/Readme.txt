@@ -1,1 +1,0 @@
-3. Write a 'Person' class to hold all details
