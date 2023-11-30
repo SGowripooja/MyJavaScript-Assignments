@@ -30,7 +30,7 @@ let pgMovies = [
     {name:'Theroy',rating:'PG'}
 ];
 let PGmovies = pgMovies.filter((pgMovies)=>pgMovies.rating==='PG');
-console.log(PGmovies);
+PGmovies.forEach(e=>console.log(e.name));
 
 
 // Write a 'Person' class to hold all details: 
