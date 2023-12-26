@@ -19,3 +19,7 @@ body{
 .title{
     text-align: center;;
 }
+
+ .card:hover {
+    transform: translateY(-10px);
+  }
